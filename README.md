@@ -1,2 +1,3 @@
 # DelSys32
 The command for deleting System 32!
+REMEMBER: DELETING SYSTEM32 WILL F-CK YOUR COMPUTER!
